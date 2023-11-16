@@ -29,4 +29,4 @@ JsonSerializer.Serialize(new
 ```
 to suit your needs. The main query should be in the `query` field, and arguments passed into the `arguments` field.
 
-For more information, refer to the [HTTP API documentation](https://docs.fauna.com/fauna/current/reference/http/) for more information.
+For more information, refer to the [HTTP API documentation](https://docs.fauna.com/fauna/current/reference/http/).
